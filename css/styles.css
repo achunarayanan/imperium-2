@@ -266,11 +266,7 @@ p{
     font-size:2rem ;
 }
 .title-img{
-    margin-left: auto;
-    margin-right: auto;
-    position: relative;
-    left: 60px;
-    width: 70%;
+   display: none;
 }
 .about-heading{
     font-size: 2rem;
